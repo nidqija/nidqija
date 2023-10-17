@@ -4,14 +4,26 @@ Just an IT student , passionate about softwares and ui/ux !
 
 I use :
 
-
-![image](https://github.com/nidqija/first/assets/144256646/747f014d-6aef-486b-a273-4a506cf60620) ![image](https://github.com/nidqija/first/assets/144256646/4eb40be9-5053-4fc5-bf12-32a1a9ff0932) ![image](https://github.com/nidqija/first/assets/144256646/b6a7e106-ef3d-4737-8702-166bd45d061d)
-
+![image](https://github.com/nidqija/first/assets/144256646/bcad0724-74f1-4a11-a884-7cb5e43587b9)![image](https://github.com/nidqija/first/assets/144256646/9903b4f3-617a-4318-883f-3cffe929b249)![image](https://github.com/nidqija/first/assets/144256646/55a804ee-12d3-4235-a8cf-be257ae7a9ef)![image](https://github.com/nidqija/first/assets/144256646/2d336577-7363-448c-b0af-85fb531a1a5d)
 
 
-Currently learning :
 
-![image](https://github.com/nidqija/first/assets/144256646/05db0a84-74c7-49ef-960c-44c7e22586e7)
+
+
+
+
+
+
+
+
+
+
+Currently learning / diving deep into :
+
+
+![image](https://github.com/nidqija/first/assets/144256646/55a804ee-12d3-4235-a8cf-be257ae7a9ef)
+
+
 
 
 
