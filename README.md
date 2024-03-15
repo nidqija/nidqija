@@ -18,10 +18,6 @@ I use :
 
 
 
-Currently Diving Deep :
-
-![Static Badge](https://img.shields.io/badge/python-blue?style=square&logo=Python&logoColor=yellow&color=blue) ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=square&logo=Javascript&color=black) ![Static Badge](https://img.shields.io/badge/PHP-black?style=square&logo=PHP&logoColor=pink&color=purple)
-
 
 
 
