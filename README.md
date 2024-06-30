@@ -3,9 +3,9 @@
 Just an IT student , passionate about softwares and ui/ux !
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidqija&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidqija&layout=compact&theme=cobalt) ![Github Stats](https://github-readme-stats.vercel.app/api?username=nidqija&theme=cobalt)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nidqija&theme=cobalt)
+
 
 
 
