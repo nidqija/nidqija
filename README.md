@@ -7,7 +7,7 @@ Just an IT student , passionate about softwares and ui/ux !
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nidqija&theme=cobalt)
 
-![](https://github-readme-streak-stats.herokuapp.com/?username=nidqija&theme=cobalt)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nidqija&theme=cobalt)
 
 
 
