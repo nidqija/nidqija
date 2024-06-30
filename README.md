@@ -3,7 +3,7 @@
 Just an IT student , passionate about softwares and ui/ux !
 
 
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidqija&hide=javascript,css,scss,html&theme=tokyonight)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nidqija&theme=cobalt)
