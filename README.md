@@ -8,7 +8,7 @@ I use :
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nidqija&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nidqija&theme=dark)
 
 
 
