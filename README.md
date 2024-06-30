@@ -3,7 +3,7 @@
 Just an IT student , passionate about softwares and ui/ux !
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nidqija)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nidqija)](https://github.com/nidqija/github-readme-stats)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nidqija&theme=cobalt)
 
