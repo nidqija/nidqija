@@ -1,4 +1,4 @@
-a# Halo
+Halo
 
 Just an IT student , passionate about softwares and ui/ux !
 
