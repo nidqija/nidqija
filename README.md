@@ -3,11 +3,11 @@ Halo
 Just an IT student , passionate about softwares and ui/ux !
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidqija&hide=c,powershell,c%2B%2B,mako,cython,assembly,python&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidqija&hide=c,powershell,c%2B%2B,mako,cython,assembly&layout=compact&theme=cobalt)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nidqija&theme=cobalt&hide=c)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nidqija&theme=cobalt)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nidqija&theme=cobalt&layout=compact)
 
 
 
