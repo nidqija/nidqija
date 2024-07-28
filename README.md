@@ -20,7 +20,7 @@ I use :
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nidqija&icon=5&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nidqija&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
 
