@@ -1,6 +1,3 @@
-Halo
-
-Just an IT student , passionate about softwares and ui/ux !
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidqija&hide=c,powershell,c%2B%2B,mako,cython,assembly,python,html,css,batchfile&layout=compact&theme=cobalt)
