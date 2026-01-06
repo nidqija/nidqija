@@ -5,7 +5,7 @@ Just an IT student , passionate about softwares and ui/ux !
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidqija&layout=compact&theme=cobalt&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidqija&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidqija&layout=compact&theme=cobalt)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nidqija&theme=radical&cache_seconds=1800)](https://git.io/streak-stats)
 
