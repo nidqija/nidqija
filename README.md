@@ -3,7 +3,8 @@ Halo
 Just an IT student , passionate about softwares and ui/ux !
 
 
-![Metrics](https://metrics.lecoq.io/nidqija)
+![Snake](https://raw.githubusercontent.com/nidqija/nidqija/output/github-contribution-grid-snake.svg)
+
 
 
 Hello
