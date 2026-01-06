@@ -7,7 +7,7 @@ Just an IT student , passionate about softwares and ui/ux !
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nidqija&show_icons=true&theme=radical)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nidqija&theme=cobalt&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nidqija)](https://git.io/streak-stats)
 
 
 Hello
