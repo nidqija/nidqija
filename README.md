@@ -2,7 +2,7 @@ Halo
 
 Just an IT student , passionate about softwares and ui/ux !
 
-![Snake animation](https://raw.githubusercontent.com/nidqija/nidqija/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/nidqija/nidqija/output/github-snake-dark.svg)
 
 
 I use :
