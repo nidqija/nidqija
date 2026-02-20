@@ -2,9 +2,7 @@ Halo
 
 Just an IT student , passionate about softwares and ui/ux !
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+![Snake animation](https://raw.githubusercontent.com/nidqija/nidqija/output/github-snake.svg)
 
 I use :
 
