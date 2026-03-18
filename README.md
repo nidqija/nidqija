@@ -1,6 +1,8 @@
-Halo
+# Hello Everyone
 
-Just an IT student , passionate about softwares and ui/ux !
+## Please dont look my repos too much , I dont think im good enough ngl
+
+---
 
 ### Snake Commits
 ![Snake animation](https://raw.githubusercontent.com/nidqija/nidqija/output/github-snake-dark.svg)
