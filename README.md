@@ -9,6 +9,11 @@ Just an IT student , passionate about softwares and ui/ux !
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Ollama: From Installation to Testing](https://dev.to/raziq_din_bd0274cc2ac748b/getting-started-with-ollama-from-installation-to-testing-281o)
+- [How to bulk insert your data to Supabase with CSV](https://dev.to/raziq_din_bd0274cc2ac748b/how-to-bulk-insert-your-data-to-supabase-with-csv-386m)
+- [Fixing the &quot;Ghost Folder&quot; in GitHub: Converting a Broken Submodule to a Normal Folder](https://dev.to/raziq_din_bd0274cc2ac748b/fixing-the-ghost-folder-in-github-converting-a-broken-submodule-to-a-normal-folder-44c5)
+- [Demystifying Django Architecture : A Beginner-Friendly Guide](https://dev.to/raziq_din_bd0274cc2ac748b/demystifying-django-architecture-a-beginner-friendly-guide-3p84)
+- [Applying Object Relational Mapping &lpar;ORM&rpar; on a C# .NET application](https://dev.to/raziq_din_bd0274cc2ac748b/applying-object-relational-mapping-orm-on-a-c-net-application-54g1)
 <!-- BLOG-POST-LIST:END -->
 I use :
 
