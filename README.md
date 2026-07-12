@@ -12,12 +12,12 @@
 <div align="center">
 
 <pre>
- ██╗  ██╗███████╗██╗     ██╗      ██████╗
- ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
- ███████║█████╗  ██║     ██║     ██║   ██║
- ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
- ██║  ██║███████╗███████╗███████╗╚██████╔╝
- ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
+ ██╗  ██╗███████╗██╗     ██╗      ██████╗   ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ ██╗
+ ██║  ██║██╔════╝██║     ██║     ██╔═══██╗  ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗██║
+ ███████║█████╗  ██║     ██║     ██║   ██║  ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║██║
+ ██╔══██║██╔══╝  ██║     ██║     ██║   ██║  ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║╚═╝
+ ██║  ██║███████╗███████╗███████╗╚██████╔╝  ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝██╗
+ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝    ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝
 </pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Backend+%7C+Full-Stack+Developer;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -81,11 +81,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nidqija&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidqija&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidqija&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br>
@@ -94,13 +89,6 @@
 
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nidqija&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
-</div>
 
 ---
 
@@ -127,10 +115,5 @@
   <img src="https://visitcount.itsvg.in/api?id=nidqija&icon=5&color=1" alt="Visitor Count" />
 </div>
 
-<div align="center">
-
-![Snake trail](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
-</div>
 
 
