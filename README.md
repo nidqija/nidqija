@@ -1,51 +1,48 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║   ███╗   ██╗██╗██████╗  ██████╗ ██╗     ██╗ █████╗                ║
+  ║   ████╗  ██║██║██╔══██╗██╔═══██╗██║     ██║██╔══██╗               ║
+  ║   ██╔██╗ ██║██║██║  ██║██║   ██║██║     ██║███████║               ║
+  ║   ██║╚██╗██║██║██║  ██║██║▄▄ ██║██║██   ██║██╔══██║               ║
+  ║   ██║ ╚████║██║██████╔╝╚██████╔╝██║╚█████╔╝██║  ██║               ║
+  ║   ╚═╝  ╚═══╝╚═╝╚═════╝  ╚══▀▀═╝ ╚═╝ ╚════╝ ╚═╝  ╚═╝               ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
+
+<div align="center">
+
+<pre>
+ ██╗  ██╗███████╗██╗     ██╗      ██████╗
+ ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+ ███████║█████╗  ██║     ██║     ██║   ██║
+ ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+ ██║  ██║███████╗███████╗███████╗╚██████╔╝
+ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
+</pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Backend+%7C+Full-Stack+Developer;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=nidqija&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+<br>
+
 # Hello Everyone 👋
 
 ## Please don't look at my repos too much, I'm still learning and growing! 🚀
-.::.                         :::.                  
-                   :=--:                       :---.                  
-                    -=--:                     :---:                   
-                     :=--:.  ...:::::::...  .:---.                    
-                      :--:::::::::::::::::::::--.                     
-                     .::::::::::::::::::::::::::..                    
-                   .:::::::::::::::::::::::::::::::.                  
-                 .:::::::::::::::::::::::::::::::::::                 
-                :-:::::--:::::::::::::::::::::--::::::.               
-               :-:::::-+*+=:::::::::::::::::=+*+-:.::::.              
-              :-:::..-+#%*-:::::::::::::::::=##*=:..::::.             
-             :-:::::::=+=------------------::-==-:::::::-.            
-             --::::::::::--------------------:::::::::::::            
-            .--::::::::----------------------::::::::::::-            
-            .-=++++++===================================-:            
-            :--======+++++++++++++++++++++++++++======----:           
-            -----------------------------------::::::::::::           
-      .::--:----------------------------------------::::::::--::.     
-     ::---=+=---------------------------------------::::::=+=---::    
-    :---==++=---------------------------------------:::::--=+=---::   
-   :---==+*-----------------------------------------:::::-::+==---::  
-  :---===+= ----------------------------------------:::::-: =+==---:. 
- .---===++. -----------------------------------------::::-: .+===---: 
- ----===+=  -----------------------------------------::::-:  ++==---:.
-.----===+.  -----------------------------------------:::--:  =+==----:
------===+.  :-----------------------------------------::--:  =+==----:
----=-===+:  :=--------------------------------------------:  =+==----:
-:===-===+=  :=--------------------------------------------.  +===-----
-.========+  .=--------------------------------------------  .+=====---
- -======++   -=---------========--------------------------  :+=======:
- .=++++++.   :==========================----------------=.   =+++++=: 
-   .:-:.      -================================--------=:     .:-::.  
-               ========================================-              
-                =+====================================-               
-                 -++++++++++=======================++:                
-                  .-**+++++++++++++++++++===+++++++-.                 
-                    :+=++++++++++++++++++++++++===:                   
-                    :---==+++++*******++++++===---.                   
-                    :---=======+*+.::+*++=====----.                   
-                    :---==--====+-   ++====--=----:                   
-                    ---=========+=   ++=======----:                   
-                    -===========++   *+=========-=:                   
-                    -===========+*  .*++==========:                   
-                    :==========++=   +*++++=======.                   
-                     .:::----:::.     :::----:::..
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  "Code is like humor. When you have to explain it, it's bad" │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
 
 ### 🐍 Snake Commits
 ![Snake animation](https://raw.githubusercontent.com/nidqija/nidqija/output/github-snake-dark.svg)
@@ -80,16 +77,60 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nidqija&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidqija&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidqija&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidqija&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nidqija&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────┐
+│   Thanks for stopping by — happy coding!  │
+└──────────────────────────────────────────┘
+```
+
+</div>
+
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=nidqija&icon=5&color=1" alt="Visitor Count" />
 </div>
 
+<div align="center">
 
+![Snake trail](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
-
-
-
-
-
+</div>
 
 
