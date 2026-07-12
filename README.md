@@ -1,8 +1,7 @@
 # Hello Everyone 👋
 
 ## Please don't look at my repos too much, I'm still learning and growing! 🚀
-
-                   .::.                         :::.                  
+.::.                         :::.                  
                    :=--:                       :---.                  
                     -=--:                     :---:                   
                      :=--:.  ...:::::::...  .:---.                    
@@ -47,8 +46,6 @@
                     -===========+*  .*++==========:                   
                     :==========++=   +*++++=======.                   
                      .:::----:::.     :::----:::..
-
----
 
 ### 🐍 Snake Commits
 ![Snake animation](https://raw.githubusercontent.com/nidqija/nidqija/output/github-snake-dark.svg)
